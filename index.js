@@ -22,11 +22,6 @@ function johnLennonFacts(array) {
 }
 
 function iLoveTheBeatles(num) {
-  var sentence = []
-  if (num === 7) {
-    
-    sentence.push()
-  }
   
 }
 
