@@ -22,7 +22,16 @@ function johnLennonFacts(array) {
 }
 
 function iLoveTheBeatles(num) {
-  
+  var sentence = []
+  var i = 0
+  do {
+    sentence.push("I love the Beatles!")
+    i++
+    
+  } while (num < 15) {
+    sentence.push("I love the Beatles!")
+  }
+  return sentence
 }
 
 
