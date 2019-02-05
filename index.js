@@ -22,7 +22,9 @@ function johnLennonFacts(array) {
 }
 
 function iLoveTheBeatles(num) {
-  var i = 0
+  if (num === 7) {
+    for (var i = 0; i )
+  }
   
 }
 
