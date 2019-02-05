@@ -22,8 +22,9 @@ function johnLennonFacts(array) {
 }
 
 function iLoveTheBeatles(num) {
+  var sentence = "I love the Beatles!"
   if (num === 7) {
-    for (var i = 0; i )
+    
   }
   
 }
